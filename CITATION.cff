@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Harrington"
+  given-names: "Katie"
+  orcid: "https://orcid.org/0000-0003-1248-9563"
+title: "Polarization Simulation Software"
+version: 0.1
+date-released: 2022-05-22
+url: "https://github.com/kmharrington/pol-sim.git"
